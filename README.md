@@ -1,10 +1,11 @@
 ## Hi there 👋
-
+안녕하세요.
+컴퓨터 공학과 23학번 장호종입니다.
 <!--
 **hojong0321/hojong0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-컴퓨터 공학과 23학번 장호종
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
